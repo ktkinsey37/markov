@@ -88,3 +88,7 @@ class MarkovMachine {
   }
 
 }
+
+module.exports = {
+  MarkovMachine,
+};
